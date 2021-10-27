@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<fix_ttl>0</fix_ttl>
+	<datalock></datalock>
+	<autounlock>true</autounlock>
+	<pinautovalidate></pinautovalidate>
+	<imei_generator_model></imei_generator_model>
+	<backup_imei>none</backup_imei>
+	<autorun_imei_generator>false</autorun_imei_generator>
+	<autoimei>false</autoimei>
+	<hspa_locker>false</hspa_locker>
+	<add_param>true</add_param>
+	<operator>true</operator>
+	<websd>false</websd>
+	<watchcat>false</watchcat>
+	<watchcat_mode>ping</watchcat_mode>
+	<watchcat_period>6h</watchcat_period>
+	<watchcat_forcedelay>30</watchcat_forcedelay>
+	<watchcat_pinghosts>8.8.8.8</watchcat_pinghosts>
+	<watchcat_pingperiod></watchcat_pingperiod>
+	<webui_mode>old</webui_mode>
+	<automaterial>false</automaterial>
+	<search>google</search>
+	<main_bg>false</main_bg>
+	<force_new></force_new>
+	<force_old>true</force_old>
+	<force_both></force_both>
+	<force_new_home>false</force_new_home>
+	<force_old_home>true</force_old_home>
+	<force_new_statistic>false</force_new_statistic>
+	<force_old_statistic>true</force_old_statistic>
+	<force_both_statistic>false</force_both_statistic>
+	<force_new_sms>false</force_new_sms>
+	<force_old_sms>true</force_old_sms>
+	<force_new_ussd>false</force_new_ussd>
+	<force_old_ussd>true</force_old_ussd>
+</config>

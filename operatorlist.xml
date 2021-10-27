@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OperatorList>
+    <Item plmn="51001" shortdescr="Indosat"/>
+    <Item plmn="51009" shortdescr="Smartfren"/>
+    <Item plmn="51010" shortdescr="T-SEL"/>
+    <Item plmn="51011" shortdescr="XL"/>
+    <Item plmn="51028" shortdescr="Smartfren"/>
+    <Item plmn="51068" shortdescr="www.reload.id"/>
+    <Item plmn="51089" shortdescr="3"/>
+</OperatorList>
